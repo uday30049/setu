@@ -1,0 +1,8 @@
+{
+    "consentId": "{{consent_request_id}}",
+    "DataRange": {
+        "from": "2023-05-01T00:00:00Z",
+              "to": "2023-06-01T00:00:00Z"
+    },
+    "format": "json"
+  }

@@ -1,0 +1,12 @@
+{
+    "id": "21f8b480-440e-44a7-a625-eb025549aec7",
+    "format": "json",
+    "DataRange": {
+        "to": "2023-06-01T00:00:00.000Z",
+        "from": "2023-05-01T00:00:00.000Z"
+    },
+    "Payload": null,
+    "consentId": "01da8ecb-7523-4aa4-b8f9-77f7366d065f",
+    "status": "PENDING",
+    "traceId": "1-64b28c2a-5e2c86ae240b8fa90e46a8f7"
+}
